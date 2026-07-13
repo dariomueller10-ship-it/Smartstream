@@ -6,6 +6,22 @@ Tasten, Drehgeber, Schieberegler und weitere Bedienelemente können mit Aktionen
 
 > **Hinweis:** Smartstream befindet sich derzeit in der Testphase. Fehler, unvollständige Funktionen und Änderungen am Verhalten sind zu erwarten. Die Menschheit nennt so etwas „Vorabversion“, damit Abstürze wenigstens organisatorisch korrekt eingeordnet sind.
 
+## Smartstream herunterladen
+
+[![Smartstream herunterladen](https://img.shields.io/badge/Smartstream-herunterladen-2ea44f?style=for-the-badge&logo=windows)](https://github.com/dariomueller10-ship-it/Smartstream/releases/latest/download/SmartstreamSetup.exe)
+
+**Direkter Download:**  
+[SmartstreamSetup.exe herunterladen](https://github.com/dariomueller10-ship-it/Smartstream/releases/latest/download/SmartstreamSetup.exe)
+
+## Installation
+
+1. Lade `SmartstreamSetup.exe` über den Download-Knopf oben herunter.
+2. Öffne die heruntergeladene Datei.
+3. Folge den Schritten des Installationsprogramms.
+4. Starte Smartstream über die erstellte Verknüpfung.
+
+Windows oder ein Browser kann bei neuen und noch wenig verbreiteten Programmdateien eine Sicherheitswarnung anzeigen. Prüfe vor dem Start, dass die Datei aus dem offiziellen Smartstream-Repository stammt.
+
 ## Aktueller Status
 
 Smartstream wird aktiv entwickelt und ist noch nicht als stabile Endversion eingestuft.
@@ -25,16 +41,7 @@ Derzeit liegt der Schwerpunkt auf:
 - Internetverbindung für Download und automatische Aktualisierungen;
 - unterstützte Smartstream-Hardware für die vollständige Nutzung.
 
-Die Anwendung wird als selbständige Windows-Programmdatei veröffentlicht. Eine separate .NET-Installation sollte für die veröffentlichte Version grundsätzlich nicht erforderlich sein.
-
-## Installation
-
-1. Öffne im GitHub-Repository den Bereich **Releases**.
-2. Lade `SmartstreamSetup.exe` aus der neuesten Version herunter.
-3. Starte das Installationsprogramm.
-4. Starte Smartstream über die erstellte Verknüpfung.
-
-Windows oder ein Browser kann bei neuen und noch wenig verbreiteten Programmdateien eine Sicherheitswarnung anzeigen. Prüfe vor dem Start, dass die Datei aus dem offiziellen Smartstream-Repository stammt.
+Die Anwendung wird als eigenständige Windows-Programmdatei veröffentlicht. Eine separate .NET-Installation sollte für die veröffentlichte Version grundsätzlich nicht erforderlich sein.
 
 ## Automatische Aktualisierungen
 
