@@ -1,0 +1,118 @@
+DATENSCHUTZERKLÄRUNG FÜR SMARTSTREAM
+
+Stand: 12.07.2026
+
+1. Verantwortliche Stelle
+
+Verantwortlich für die Datenverarbeitung im Zusammenhang mit Smartstream ist:
+
+Dario Müller
+Schynhaldenstrasse 3
+5213 Villnachern
+CH
+E-Mail: dario.mueller10@icloud.com
+
+2. Grundsatz
+
+Smartstream ist eine lokal ausgeführte Windows-Anwendung.
+
+Smartstream betreibt nach aktuellem Stand keinen eigenen Benutzerkonten-, Analyse- oder Werbedienst. Die meisten Daten und Einstellungen werden ausschliesslich auf dem Gerät des Nutzers verarbeitet und gespeichert.
+
+3. Lokal gespeicherte Daten
+
+Smartstream kann insbesondere folgende Daten lokal speichern:
+
+- Programm- und Oberflächeneinstellungen;
+- Modulkonfigurationen;
+- Makros und zugewiesene Aktionen;
+- benutzerdefinierte Beschriftungen;
+- Integrations- und Verbindungseinstellungen;
+- Discord-Autorisierungsdaten;
+- Informationen zur installierten Programmversion.
+
+Diese Daten werden üblicherweise unter folgendem Windows-Pfad gespeichert:
+
+%LOCALAPPDATA%\Smartstream
+
+Diese Daten werden grundsätzlich nicht automatisch an den Anbieter von Smartstream übertragen.
+
+4. Discord-Verbindung
+
+Wenn der Nutzer Smartstream freiwillig mit Discord verbindet, verarbeitet Smartstream nur die Daten, die für die gewählten Discord-Funktionen erforderlich sind.
+
+Dazu können gehören:
+
+- Discord-Benutzer-ID;
+- Discord-Benutzername oder Anzeigename;
+- OAuth-Zugangs- und Aktualisierungstoken;
+- Autorisierungsstatus;
+- Mikrofon-Stummschaltung;
+- Deafen-Status;
+- Sprach- und Lautstärkeeinstellungen.
+
+Smartstream liest nach aktuellem Funktionsumfang keine privaten Nachrichten, Chatnachrichten, Servernachrichten oder Freundeslisten.
+
+Die Kommunikation erfolgt direkt zwischen der lokal ausgeführten Smartstream-Anwendung und Discord. Der Anbieter von Smartstream erhält diese Daten nicht über einen eigenen Server.
+
+5. Speicherung und Löschung der Discord-Anmeldung
+
+Discord-Autorisierungsdaten können lokal gespeichert werden, damit keine erneute Anmeldung bei jedem Start erforderlich ist.
+
+Der Nutzer kann diese Daten in Smartstream über die Funktion „Anmeldung löschen“ entfernen.
+
+Zusätzlich können alle lokalen Smartstream-Daten durch Löschen des folgenden Ordners entfernt werden:
+
+%LOCALAPPDATA%\Smartstream
+
+Dabei werden auch andere lokale Einstellungen und Konfigurationen gelöscht.
+
+6. GitHub und automatische Updates
+
+Der Smartstream Launcher kann GitHub kontaktieren, um nach neuen Versionen zu suchen und Updates herunterzuladen.
+
+Dabei kann GitHub technisch notwendige Verbindungsdaten verarbeiten, zum Beispiel:
+
+- IP-Adresse;
+- Zeitpunkt der Anfrage;
+- angeforderte Datei oder Internetadresse;
+- technische Angaben zur Verbindung;
+- Benutzeragent des Launchers.
+
+Diese Daten werden nicht auf einem eigenen Smartstream-Server gespeichert, sondern von GitHub im Rahmen seiner eigenen Dienste verarbeitet.
+
+7. Zwecke der Verarbeitung
+
+Daten werden nur für folgende Zwecke verarbeitet:
+
+- Bereitstellung der gewählten Funktionen;
+- Verbindung mit Discord;
+- Speicherung lokaler Einstellungen;
+- Ausführung von Makros und Integrationen;
+- Prüfung und Installation von Updates;
+- Fehlerbehebung und Sicherheit der Anwendung.
+
+8. Weitergabe an Dritte
+
+Smartstream verkauft keine personenbezogenen Daten.
+
+Eine Verarbeitung durch Dritte findet nur statt, wenn der Nutzer entsprechende Funktionen verwendet, insbesondere Discord oder GitHub.
+
+9. Speicherdauer
+
+Lokal gespeicherte Daten bleiben gespeichert, bis der Nutzer sie löscht, die Anmeldung entfernt oder Smartstream deinstalliert und die lokalen Daten entfernt.
+
+10. Rechte der Nutzer
+
+Nutzer können Auskunft, Berichtigung oder Löschung personenbezogener Daten verlangen, soweit solche Daten tatsächlich durch den Anbieter verarbeitet werden.
+
+Da Smartstream nach aktuellem Stand keinen eigenen Server betreibt, liegen die meisten Daten ausschliesslich lokal auf dem Gerät des Nutzers.
+
+11. Änderungen
+
+Diese Datenschutzerklärung kann angepasst werden, wenn sich Smartstream, die Rechtslage oder verwendete Drittanbieterdienste ändern.
+
+12. Kontakt
+
+Fragen zum Datenschutz können an folgende Adresse gerichtet werden:
+
+dario.mueller10@icloud.com
