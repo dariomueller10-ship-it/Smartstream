@@ -1,6 +1,6 @@
 # Nutzungsbedingungen für Smartstream
 
-**Stand: 13. Juli 2026**
+**Stand: 7. August 2026**
 
 ## 1. Geltungsbereich und Anbieter
 
