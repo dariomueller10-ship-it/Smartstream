@@ -171,15 +171,29 @@ Vertrauliche Daten, Passwörter oder fremde geschützte Inhalte sollen nicht üb
 
 ## 13. Verstösse gegen diese Bedingungen
 
-Bei einem erheblichen Verstoss gegen diese Nutzungsbedingungen kann Smartstream dem betroffenen Nutzer die weitere Nutzung untersagen.
+Bei einem erheblichen Verstoss gegen diese Nutzungsbedingungen kann Smartstream dem betroffenen Nutzer die weitere Nutzung der Software untersagen und, soweit rechtlich zulässig, den Zugang zu damit verbundenen Diensten, Funktionen oder Systemen einschränken oder sperren.
 
 Dies gilt insbesondere bei:
 
-- unberechtigter Weiterverbreitung;
-- Umgehung der automatischen Aktualisierung;
-- Manipulation der Software;
-- rechtswidriger Nutzung;
-- vorsätzlicher Beeinträchtigung von Smartstream oder damit verbundenen Diensten.
+* unberechtigter Weiterverbreitung;
+* Umgehung der automatischen Aktualisierung;
+* Manipulation, Veränderung oder nicht autorisierter Modifikation der Software;
+* Manipulation, Veränderung oder nicht autorisierter Modifikation von Smartstream-Hardware;
+* Öffnung, Umbau oder technische Veränderung von Hardware entgegen den vorgesehenen Nutzungs- oder Sicherheitshinweisen;
+* Installation oder Verwendung nicht autorisierter Firmware, Bootloader oder sonstiger Systemsoftware;
+* Umgehung technischer Schutz-, Sicherheits-, Authentifizierungs- oder Zugriffssysteme;
+* unberechtigtem Reverse Engineering oder sonstigen Versuchen, nicht veröffentlichte Bestandteile von Software, Firmware oder Hardware zu erschliessen;
+* rechtswidriger Nutzung;
+* vorsätzlicher Beeinträchtigung von Smartstream oder damit verbundenen Diensten.
+
+Für Software, Hardware, Firmware oder sonstige Systeme, die vom Nutzer manipuliert, geöffnet, umgebaut, nicht autorisiert verändert oder ausserhalb des vorgesehenen Betriebs verwendet wurden, besteht, soweit gesetzlich zulässig, kein Anspruch auf freiwilligen technischen Support, Fehleranalyse, Wiederherstellung, Kulanzleistungen, freiwilligen Austausch oder sonstige freiwillige Unterstützungsleistungen durch Smartstream.
+
+Smartstream kann insbesondere die Unterstützung bei Geräten ablehnen, deren Gehäuse, Elektronik, Firmware, Sicherheitsmechanismen, Anschlüsse oder sonstige Komponenten vom Nutzer oder durch nicht autorisierte Dritte verändert wurden, sofern die Veränderung für die betreffende Störung oder deren Beurteilung relevant sein kann.
+
+Smartstream behält sich bei erheblichen oder wiederholten Verstössen ausserdem vor, dem betroffenen Nutzer künftig freiwillig angebotene Dienste, Leistungen, Software, Hardware oder den Abschluss weiterer Verträge zu verweigern, soweit dem keine zwingenden gesetzlichen Bestimmungen entgegenstehen.
+
+Bereits entstandene zwingende gesetzliche Ansprüche des Nutzers, insbesondere zwingende Gewährleistungs-, Haftungs- oder Konsumentenrechte, bleiben unberührt.
+
 
 ## 14. Änderungen dieser Nutzungsbedingungen
 
